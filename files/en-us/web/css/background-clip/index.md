@@ -38,7 +38,6 @@ color: transparent;
 #example-element {
   background-image: url("/shared-assets/images/examples/leopard.jpg");
   color: #d73611;
-  text-shadow: 2px 2px black;
   padding: 20px;
   border: 10px dashed #333;
   font-size: 2em;
