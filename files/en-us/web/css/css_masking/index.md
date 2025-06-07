@@ -70,7 +70,7 @@ While masking provides more control and options, clipping can perform better if 
 
 - [Declaring multiple masks](/en-US/docs/Web/CSS/CSS_masking/Multiple_masks)
 
-  - : Understanding mask layers and declaring multiple mask images.
+  - : Introduction to mask layers and how to declare multiple mask images.
 
 ## Related concepts
 
